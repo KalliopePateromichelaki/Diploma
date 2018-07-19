@@ -1,3 +1,7 @@
+/*THIS IS JUST A TERMINATION CHECK
+	The "purpose of this project" isn't shown here.
+
+*/
 #include <iostream>
 
 using namespace std;
@@ -76,6 +80,9 @@ int main(void)
 {
 	Block B;
 	Block newBlock;
+	
+	//MAIN CODE TO BE HERE
+	//CONCAT OPENMP_MAIN_FILE
 	
 	while(1){
 
