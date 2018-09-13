@@ -1,7 +1,7 @@
  /*
 Fasi0: Diavasma orismatwn apo grammi entolwn,apothikeysi stin klasi Arguments (den exei getters kai setters gia eukolia - an thes vazw)
 		Kai analoga me to orisma -f or -r dimioyrgia enos tuxaiou grid (gia to -r) or evresi stilwn kai grammwn tou arxeioy pou epetetai to -f
-	O kwdikas tis fasis aytis tha ekteleitai apo tin master prossec (pid = 0) kai apo kamia alli
+	O kwdikas tis fasis aytis tha ekteleitai apo tin master process (pid = 0) kai apo kamia alli
 
 	Cmd Execution: ./exe -rows <nooRows> -cols <noofCols> {-f File, -r} --> an dothei i epilogi -f tha anairethei kathe orisma sto -rows, -cols
 
